@@ -23,6 +23,7 @@ Steps:
   * 3DS - Citra MMJ [20220913 APK](https://github.com/weihuoya/citra/releases/download/20220913/Citra_MMJ_20220913.apk) / [source](https://github.com/weihuoya/citra/releases)
   * Gamecube/Wii - Dolphin MMRJ [1.0-11505 APK](https://github.com/Bankaimaster999/Dolphin-MMJR/releases/download/1.0-11505/app-release.apk) / [source](https://github.com/Bankaimaster999/Dolphin-MMJR/releases/tag/1.0-11505)
   * DS - use RetroArch
+* organize icons
 * [download icon for Retroid Launcher](https://raw.githubusercontent.com/r0b0-tr0n/rp3ocd/main/grunt.webp) - need different link
 * run Retroid Launcher, dark mode, set icon, set name, turn on show background
 * change time to 12-hr
@@ -31,4 +32,4 @@ Steps:
 * Setup > RetroArch setup > OK
 * Setup > Standalone setup > Do each one
 * exit, run RetroArch, let it unpack base.apk again
-* 
+* shut down, add ROMs
