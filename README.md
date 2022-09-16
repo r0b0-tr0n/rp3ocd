@@ -30,4 +30,5 @@ Steps:
 * Setup > Create ROM Folders > SD Card
 * Setup > RetroArch setup > OK
 * Setup > Standalone setup > Do each one
+* exit, run RetroArch, let it unpack base.apk again
 * 
